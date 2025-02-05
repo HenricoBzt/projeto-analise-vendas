@@ -1,0 +1,1001 @@
+id_venda,produto,categoria,valor,data_compra
+1,Mouse,Acessórios,2714.06,2025-01-06
+2,Notebook,Eletrônicos,2499.4,2024-06-15
+3,Headset,Acessórios,4056.76,2024-12-08
+4,Mouse,Acessórios,2537.86,2024-09-02
+5,Mouse,Acessórios,4565.29,2024-09-07
+6,Mouse,Acessórios,758.89,2024-03-27
+7,Notebook,Eletrônicos,152.95,2024-06-22
+8,Smartphone,Eletrônicos,3721.22,2024-02-07
+9,TV,Eletrônicos,3550.14,2024-02-26
+10,TV,Eletrônicos,1639.48,2024-02-12
+11,Fone Bluetooth,Wearables,1577.29,2024-03-10
+12,TV,Eletrônicos,1383.17,2024-05-10
+13,Smartphone,Eletrônicos,2412.05,2024-02-05
+14,Headset,Acessórios,3919.76,2024-04-04
+15,Teclado,Acessórios,3287.12,2024-07-06
+16,Smartwatch,Wearables,3615.74,2024-04-25
+17,Notebook,Eletrônicos,1155.47,2024-04-21
+18,Mouse,Acessórios,3361.2,2024-11-27
+19,Smartwatch,Wearables,974.96,2024-04-18
+20,TV,Eletrônicos,2695.62,2024-08-14
+21,Headset,Acessórios,734.56,2024-11-16
+22,Mouse,Acessórios,1739.63,2024-05-08
+23,TV,Eletrônicos,3895.37,2024-03-05
+24,Teclado,Acessórios,3776.76,2024-10-25
+25,Headset,Acessórios,3642.68,2024-08-08
+26,Notebook,Eletrônicos,4804.89,2024-10-08
+27,Teclado,Acessórios,2666.94,2024-11-30
+28,Teclado,Acessórios,3313.31,2024-07-09
+29,Fone Bluetooth,Wearables,619.82,2024-08-03
+30,Mouse,Acessórios,3315.77,2025-01-28
+31,TV,Eletrônicos,4581.78,2024-02-06
+32,Notebook,Eletrônicos,2784.36,2024-05-17
+33,Fone Bluetooth,Wearables,679.85,2024-06-13
+34,Headset,Acessórios,2939.25,2024-07-28
+35,Smartphone,Eletrônicos,1794.11,2024-06-28
+36,Teclado,Acessórios,2276.5,2025-01-19
+37,Fone Bluetooth,Wearables,1385.1,2024-09-06
+38,Fone Bluetooth,Wearables,3353.37,2024-11-08
+39,Fone Bluetooth,Wearables,3732.5,2024-06-09
+40,Fone Bluetooth,Wearables,2781.39,2024-08-22
+41,Teclado,Acessórios,4727.66,2024-05-13
+42,Headset,Acessórios,4145.05,2025-01-11
+43,Smartphone,Eletrônicos,3097.27,2024-08-02
+44,Mouse,Acessórios,2417.82,2024-09-11
+45,Notebook,Eletrônicos,2720.39,2024-09-09
+46,Smartwatch,Wearables,1237.11,2024-08-22
+47,Teclado,Acessórios,3097.22,2024-06-10
+48,TV,Eletrônicos,957.1,2024-07-19
+49,Smartwatch,Wearables,3501.14,2025-01-30
+50,Smartwatch,Wearables,3039.09,2025-01-11
+51,Smartwatch,Wearables,744.38,2024-07-14
+52,TV,Eletrônicos,484.84,2024-06-08
+53,Mouse,Acessórios,3108.24,2024-08-29
+54,Notebook,Eletrônicos,2451.29,2024-03-22
+55,TV,Eletrônicos,3557.6,2025-01-08
+56,Smartwatch,Wearables,3095.6,2024-06-18
+57,Mouse,Acessórios,4984.52,2024-03-09
+58,Smartwatch,Wearables,2666.3,2024-11-10
+59,Fone Bluetooth,Wearables,2251.1,2024-09-02
+60,Fone Bluetooth,Wearables,723.7,2024-02-20
+61,TV,Eletrônicos,4790.32,2024-12-12
+62,TV,Eletrônicos,2582.25,2024-06-04
+63,TV,Eletrônicos,2498.66,2024-11-11
+64,Mouse,Acessórios,577.3,2025-01-10
+65,Smartphone,Eletrônicos,786.83,2024-10-29
+66,Smartwatch,Wearables,616.43,2024-02-08
+67,Fone Bluetooth,Wearables,3727.26,2024-04-17
+68,Smartphone,Eletrônicos,1400.74,2024-12-23
+69,Notebook,Eletrônicos,4701.19,2024-07-06
+70,Teclado,Acessórios,3106.0,2024-07-19
+71,Mouse,Acessórios,2899.1,2024-05-03
+72,Teclado,Acessórios,2429.78,2025-02-03
+73,Smartwatch,Wearables,4981.67,2024-03-08
+74,TV,Eletrônicos,1222.14,2024-08-01
+75,Smartwatch,Wearables,2158.25,2024-07-27
+76,Notebook,Eletrônicos,4698.34,2024-04-17
+77,Headset,Acessórios,1555.54,2024-10-26
+78,TV,Eletrônicos,843.52,2024-07-20
+79,Headset,Acessórios,3239.16,2024-09-03
+80,Headset,Acessórios,4246.94,2024-06-25
+81,Smartwatch,Wearables,72.89,2024-09-18
+82,Headset,Acessórios,2310.82,2024-08-31
+83,Notebook,Eletrônicos,4907.09,2024-02-11
+84,Smartwatch,Wearables,2849.38,2024-06-14
+85,Teclado,Acessórios,3048.0,2024-05-09
+86,Fone Bluetooth,Wearables,4263.89,2024-04-04
+87,TV,Eletrônicos,1438.23,2024-03-28
+88,Fone Bluetooth,Wearables,3369.43,2024-08-15
+89,Fone Bluetooth,Wearables,1292.27,2024-11-11
+90,Smartphone,Eletrônicos,2724.48,2024-11-12
+91,Headset,Acessórios,323.26,2024-05-05
+92,Mouse,Acessórios,1971.8,2024-09-19
+93,Smartwatch,Wearables,3859.99,2024-08-02
+94,TV,Eletrônicos,2965.83,2024-12-22
+95,Notebook,Eletrônicos,2240.21,2024-09-06
+96,Smartwatch,Wearables,2202.03,2024-07-14
+97,Teclado,Acessórios,3423.71,2024-04-14
+98,Notebook,Eletrônicos,3291.64,2024-12-31
+99,Mouse,Acessórios,1294.28,2025-01-01
+100,TV,Eletrônicos,2613.39,2025-01-16
+101,TV,Eletrônicos,4725.69,2024-12-05
+102,Teclado,Acessórios,1638.5,2024-12-30
+103,Smartphone,Eletrônicos,4473.76,2024-04-07
+104,Fone Bluetooth,Wearables,2710.79,2024-06-14
+105,Smartwatch,Wearables,3773.97,2024-02-18
+106,Smartphone,Eletrônicos,4894.45,2024-07-02
+107,TV,Eletrônicos,871.24,2025-01-23
+108,Smartwatch,Wearables,798.15,2024-10-28
+109,Fone Bluetooth,Wearables,206.22,2024-07-13
+110,Notebook,Eletrônicos,3505.07,2024-03-05
+111,Headset,Acessórios,3327.01,2024-09-08
+112,TV,Eletrônicos,2808.55,2024-12-08
+113,Mouse,Acessórios,1902.31,2024-11-30
+114,Smartwatch,Wearables,4764.03,2025-01-23
+115,Notebook,Eletrônicos,1742.46,2025-01-19
+116,Teclado,Acessórios,782.08,2024-07-26
+117,Smartwatch,Wearables,1241.72,2024-05-26
+118,TV,Eletrônicos,1808.76,2024-10-26
+119,Fone Bluetooth,Wearables,4728.87,2025-01-31
+120,Notebook,Eletrônicos,4253.33,2025-01-10
+121,TV,Eletrônicos,129.77,2024-03-15
+122,Headset,Acessórios,943.69,2024-09-13
+123,Smartphone,Eletrônicos,2682.81,2025-02-02
+124,Notebook,Eletrônicos,3890.84,2025-01-30
+125,Notebook,Eletrônicos,416.19,2024-06-22
+126,TV,Eletrônicos,4257.3,2024-02-22
+127,Smartwatch,Wearables,2844.97,2024-09-25
+128,Smartphone,Eletrônicos,2075.46,2024-05-29
+129,Teclado,Acessórios,3964.9,2024-06-02
+130,Headset,Acessórios,3562.17,2024-05-27
+131,Fone Bluetooth,Wearables,3415.8,2024-05-04
+132,Smartphone,Eletrônicos,1596.62,2025-01-15
+133,Mouse,Acessórios,3468.11,2024-10-14
+134,Smartwatch,Wearables,2420.39,2024-06-11
+135,Smartphone,Eletrônicos,1674.52,2024-08-30
+136,Notebook,Eletrônicos,897.74,2024-06-28
+137,Teclado,Acessórios,2118.22,2024-06-26
+138,Smartwatch,Wearables,3473.61,2024-06-06
+139,Smartphone,Eletrônicos,3369.51,2024-09-28
+140,Headset,Acessórios,2823.86,2024-02-20
+141,Fone Bluetooth,Wearables,3568.28,2024-02-24
+142,Fone Bluetooth,Wearables,1884.58,2024-09-16
+143,Teclado,Acessórios,1182.18,2024-04-28
+144,Fone Bluetooth,Wearables,976.46,2024-12-07
+145,Notebook,Eletrônicos,3079.73,2024-08-06
+146,Mouse,Acessórios,3151.57,2024-11-19
+147,Smartphone,Eletrônicos,2753.41,2024-09-19
+148,Smartwatch,Wearables,299.47,2024-03-06
+149,Smartwatch,Wearables,1833.7,2024-12-13
+150,Teclado,Acessórios,461.27,2025-01-10
+151,Fone Bluetooth,Wearables,1356.31,2024-10-11
+152,Smartwatch,Wearables,4560.3,2024-07-25
+153,Smartwatch,Wearables,3957.63,2024-10-04
+154,Mouse,Acessórios,3739.45,2024-12-20
+155,TV,Eletrônicos,3809.66,2024-03-29
+156,Mouse,Acessórios,774.83,2024-10-25
+157,Teclado,Acessórios,2259.93,2024-04-24
+158,Headset,Acessórios,4349.01,2024-09-18
+159,Mouse,Acessórios,2777.42,2024-06-09
+160,Smartwatch,Wearables,2670.08,2024-09-21
+161,Notebook,Eletrônicos,1918.08,2024-03-01
+162,Teclado,Acessórios,511.73,2024-07-19
+163,Teclado,Acessórios,1560.01,2024-06-28
+164,Teclado,Acessórios,2530.62,2024-05-13
+165,Mouse,Acessórios,3529.33,2024-04-14
+166,Headset,Acessórios,4738.87,2024-06-25
+167,Smartwatch,Wearables,1614.48,2024-09-21
+168,Headset,Acessórios,3017.04,2024-04-14
+169,Mouse,Acessórios,4518.18,2024-06-05
+170,Headset,Acessórios,4354.68,2024-09-23
+171,Fone Bluetooth,Wearables,4770.98,2024-03-24
+172,Smartphone,Eletrônicos,3249.58,2024-06-14
+173,Headset,Acessórios,4742.17,2024-04-08
+174,Headset,Acessórios,4766.81,2024-12-16
+175,Mouse,Acessórios,659.28,2024-11-02
+176,TV,Eletrônicos,1589.36,2024-03-02
+177,Fone Bluetooth,Wearables,2123.06,2024-09-16
+178,Fone Bluetooth,Wearables,1151.17,2024-11-22
+179,Smartphone,Eletrônicos,2369.85,2024-08-14
+180,Fone Bluetooth,Wearables,3494.06,2024-07-28
+181,Fone Bluetooth,Wearables,2469.59,2024-05-29
+182,Fone Bluetooth,Wearables,4828.81,2024-03-31
+183,Smartphone,Eletrônicos,2838.89,2024-07-07
+184,Fone Bluetooth,Wearables,1238.52,2024-12-31
+185,Mouse,Acessórios,1525.18,2025-01-12
+186,Mouse,Acessórios,1280.47,2024-06-16
+187,Fone Bluetooth,Wearables,2671.8,2024-04-02
+188,Fone Bluetooth,Wearables,2420.84,2024-03-03
+189,Mouse,Acessórios,2163.1,2024-08-21
+190,Notebook,Eletrônicos,1004.66,2024-08-30
+191,Smartphone,Eletrônicos,3412.25,2024-03-05
+192,Fone Bluetooth,Wearables,2524.67,2024-05-18
+193,Smartwatch,Wearables,1535.48,2024-02-28
+194,TV,Eletrônicos,4435.2,2024-10-04
+195,Smartwatch,Wearables,2307.8,2024-07-15
+196,Smartphone,Eletrônicos,2957.12,2024-07-31
+197,TV,Eletrônicos,3637.72,2024-08-25
+198,Fone Bluetooth,Wearables,2494.01,2024-09-30
+199,TV,Eletrônicos,4675.64,2024-09-01
+200,Fone Bluetooth,Wearables,1597.39,2024-10-11
+201,Notebook,Eletrônicos,4642.06,2024-11-26
+202,Smartwatch,Wearables,541.38,2024-09-22
+203,Notebook,Eletrônicos,3207.5,2024-03-28
+204,Smartwatch,Wearables,1505.82,2024-08-04
+205,Fone Bluetooth,Wearables,713.8,2024-06-18
+206,Headset,Acessórios,1817.96,2024-06-02
+207,Fone Bluetooth,Wearables,1124.87,2024-10-25
+208,Notebook,Eletrônicos,2668.64,2024-05-30
+209,Smartwatch,Wearables,4106.12,2024-02-12
+210,Fone Bluetooth,Wearables,549.82,2025-01-03
+211,Notebook,Eletrônicos,2032.56,2024-05-16
+212,Smartwatch,Wearables,3723.97,2024-07-09
+213,Headset,Acessórios,955.57,2024-07-15
+214,Teclado,Acessórios,2066.97,2024-10-09
+215,Fone Bluetooth,Wearables,3628.97,2024-12-18
+216,Fone Bluetooth,Wearables,4520.89,2024-10-07
+217,Headset,Acessórios,2703.73,2024-06-02
+218,Mouse,Acessórios,1753.37,2024-11-24
+219,Headset,Acessórios,2601.45,2024-10-15
+220,Headset,Acessórios,2700.88,2024-08-26
+221,Smartwatch,Wearables,3065.61,2024-08-01
+222,Notebook,Eletrônicos,2928.35,2024-10-09
+223,TV,Eletrônicos,705.57,2024-04-14
+224,Smartphone,Eletrônicos,4729.39,2024-10-16
+225,Mouse,Acessórios,3255.61,2024-12-15
+226,Teclado,Acessórios,168.75,2024-03-06
+227,Headset,Acessórios,1662.53,2024-05-11
+228,Teclado,Acessórios,74.3,2024-04-13
+229,TV,Eletrônicos,3600.0,2024-11-23
+230,TV,Eletrônicos,2980.67,2024-04-25
+231,Smartwatch,Wearables,1765.03,2024-08-15
+232,Fone Bluetooth,Wearables,198.32,2024-04-27
+233,Notebook,Eletrônicos,2357.6,2024-04-07
+234,Fone Bluetooth,Wearables,4777.78,2024-03-24
+235,Notebook,Eletrônicos,3177.1,2024-12-09
+236,Teclado,Acessórios,4497.98,2024-08-11
+237,Notebook,Eletrônicos,874.23,2024-04-13
+238,Mouse,Acessórios,2867.89,2024-02-06
+239,Smartwatch,Wearables,4478.1,2024-09-26
+240,Smartwatch,Wearables,4210.84,2025-01-15
+241,Notebook,Eletrônicos,2967.37,2024-08-10
+242,Smartwatch,Wearables,3580.17,2024-06-19
+243,Smartwatch,Wearables,1184.16,2024-10-31
+244,Fone Bluetooth,Wearables,1433.12,2024-02-27
+245,Fone Bluetooth,Wearables,4124.55,2024-03-30
+246,Notebook,Eletrônicos,2839.69,2024-06-21
+247,Fone Bluetooth,Wearables,152.99,2024-06-08
+248,Teclado,Acessórios,4548.96,2024-09-13
+249,Notebook,Eletrônicos,662.45,2024-03-12
+250,Smartwatch,Wearables,2422.7,2024-06-07
+251,Smartwatch,Wearables,2783.73,2024-09-09
+252,Smartwatch,Wearables,3343.22,2025-02-02
+253,Smartwatch,Wearables,2701.13,2025-01-20
+254,Fone Bluetooth,Wearables,3008.67,2025-01-31
+255,Headset,Acessórios,234.21,2025-01-20
+256,Smartwatch,Wearables,4922.93,2024-05-22
+257,Headset,Acessórios,2930.21,2024-10-01
+258,Mouse,Acessórios,3241.14,2024-03-11
+259,Smartwatch,Wearables,2722.41,2024-10-22
+260,Headset,Acessórios,824.88,2024-06-05
+261,Mouse,Acessórios,4591.69,2024-10-30
+262,Teclado,Acessórios,1690.27,2024-11-01
+263,Fone Bluetooth,Wearables,4966.21,2024-09-05
+264,Teclado,Acessórios,2855.44,2024-02-12
+265,Smartwatch,Wearables,4692.75,2024-05-13
+266,Smartwatch,Wearables,998.13,2024-09-03
+267,Notebook,Eletrônicos,3481.97,2024-08-28
+268,Headset,Acessórios,1686.7,2024-08-24
+269,TV,Eletrônicos,3755.1,2024-09-19
+270,TV,Eletrônicos,435.82,2024-05-28
+271,Smartwatch,Wearables,2071.84,2024-07-22
+272,Smartwatch,Wearables,3788.22,2024-08-30
+273,Teclado,Acessórios,3342.82,2024-05-17
+274,Fone Bluetooth,Wearables,3895.11,2024-11-07
+275,Notebook,Eletrônicos,1759.71,2024-02-16
+276,Fone Bluetooth,Wearables,2524.47,2024-12-01
+277,TV,Eletrônicos,4064.12,2024-12-09
+278,Headset,Acessórios,2702.62,2024-08-07
+279,Fone Bluetooth,Wearables,3053.58,2024-06-03
+280,TV,Eletrônicos,1262.09,2024-04-21
+281,Headset,Acessórios,4139.39,2024-12-27
+282,TV,Eletrônicos,1535.96,2024-03-07
+283,Fone Bluetooth,Wearables,422.8,2024-05-16
+284,Mouse,Acessórios,247.91,2025-01-16
+285,Fone Bluetooth,Wearables,3471.02,2024-10-14
+286,TV,Eletrônicos,4112.86,2024-02-10
+287,TV,Eletrônicos,4579.89,2024-04-04
+288,Mouse,Acessórios,2539.61,2024-11-28
+289,TV,Eletrônicos,4615.17,2024-04-05
+290,Smartphone,Eletrônicos,861.66,2024-09-30
+291,TV,Eletrônicos,4534.58,2024-05-08
+292,Smartphone,Eletrônicos,1393.32,2025-02-02
+293,Fone Bluetooth,Wearables,2358.51,2024-08-16
+294,Smartwatch,Wearables,2032.28,2024-11-17
+295,Smartwatch,Wearables,3843.62,2024-10-14
+296,Smartwatch,Wearables,3761.38,2024-02-04
+297,Fone Bluetooth,Wearables,1816.56,2024-08-07
+298,Smartphone,Eletrônicos,3136.57,2024-07-06
+299,TV,Eletrônicos,3983.13,2024-04-02
+300,Headset,Acessórios,601.18,2024-10-14
+301,TV,Eletrônicos,887.72,2024-10-22
+302,Fone Bluetooth,Wearables,2203.06,2024-12-07
+303,Smartwatch,Wearables,3787.56,2024-02-06
+304,Mouse,Acessórios,3682.97,2024-08-21
+305,Mouse,Acessórios,3819.51,2024-09-26
+306,Teclado,Acessórios,2390.47,2024-07-07
+307,Smartwatch,Wearables,887.16,2024-11-04
+308,Fone Bluetooth,Wearables,705.22,2024-11-22
+309,Mouse,Acessórios,271.24,2024-11-27
+310,Fone Bluetooth,Wearables,4229.18,2024-12-18
+311,TV,Eletrônicos,2268.54,2024-10-05
+312,Headset,Acessórios,1255.52,2025-01-20
+313,Smartphone,Eletrônicos,3850.71,2024-06-07
+314,Notebook,Eletrônicos,309.82,2024-03-15
+315,Headset,Acessórios,2760.74,2024-02-20
+316,TV,Eletrônicos,494.75,2024-02-28
+317,Fone Bluetooth,Wearables,234.84,2025-01-18
+318,Teclado,Acessórios,137.04,2025-01-28
+319,Teclado,Acessórios,4625.13,2024-07-07
+320,Fone Bluetooth,Wearables,2848.96,2024-02-06
+321,Headset,Acessórios,4263.02,2024-05-15
+322,Notebook,Eletrônicos,4598.29,2024-07-26
+323,Headset,Acessórios,4650.14,2024-03-28
+324,Notebook,Eletrônicos,1429.61,2024-08-01
+325,Fone Bluetooth,Wearables,2364.16,2024-09-26
+326,Fone Bluetooth,Wearables,2949.03,2024-04-17
+327,TV,Eletrônicos,2778.32,2025-01-21
+328,Fone Bluetooth,Wearables,3545.27,2024-06-03
+329,Notebook,Eletrônicos,69.38,2024-12-22
+330,Smartphone,Eletrônicos,4027.94,2024-10-17
+331,Smartwatch,Wearables,1748.4,2024-12-26
+332,Notebook,Eletrônicos,2171.33,2024-12-19
+333,Headset,Acessórios,3535.08,2024-04-09
+334,TV,Eletrônicos,1802.97,2024-08-31
+335,Teclado,Acessórios,4879.89,2025-01-23
+336,Mouse,Acessórios,2932.05,2024-05-18
+337,Fone Bluetooth,Wearables,3943.78,2024-07-31
+338,Teclado,Acessórios,4237.67,2024-03-13
+339,Smartphone,Eletrônicos,2497.9,2025-01-11
+340,Teclado,Acessórios,2813.07,2025-01-09
+341,Headset,Acessórios,789.19,2025-02-02
+342,Headset,Acessórios,3966.66,2024-04-23
+343,Headset,Acessórios,4922.4,2024-09-02
+344,Fone Bluetooth,Wearables,1853.91,2024-12-11
+345,Fone Bluetooth,Wearables,4464.52,2024-06-21
+346,Headset,Acessórios,1150.38,2024-08-03
+347,Teclado,Acessórios,4544.69,2024-05-02
+348,Fone Bluetooth,Wearables,2661.2,2024-05-17
+349,TV,Eletrônicos,925.59,2024-09-29
+350,TV,Eletrônicos,3033.42,2024-05-14
+351,Smartphone,Eletrônicos,618.29,2024-10-12
+352,Smartwatch,Wearables,2353.21,2024-03-07
+353,Smartphone,Eletrônicos,672.32,2024-10-22
+354,TV,Eletrônicos,784.52,2024-06-19
+355,Fone Bluetooth,Wearables,2185.21,2024-03-25
+356,Headset,Acessórios,3061.32,2024-06-01
+357,TV,Eletrônicos,1000.8,2024-11-29
+358,Smartphone,Eletrônicos,995.82,2024-07-17
+359,Fone Bluetooth,Wearables,3269.59,2025-01-04
+360,Smartwatch,Wearables,4752.76,2024-08-26
+361,Teclado,Acessórios,2252.27,2024-07-05
+362,Notebook,Eletrônicos,3312.99,2025-01-13
+363,Smartwatch,Wearables,1066.49,2024-09-28
+364,Notebook,Eletrônicos,2718.6,2024-06-02
+365,Mouse,Acessórios,571.52,2024-12-25
+366,Mouse,Acessórios,981.08,2024-03-10
+367,Smartwatch,Wearables,4330.65,2024-02-10
+368,Smartwatch,Wearables,3316.64,2024-06-26
+369,Smartwatch,Wearables,4828.38,2024-11-23
+370,Notebook,Eletrônicos,3040.67,2024-10-03
+371,Teclado,Acessórios,1406.21,2024-04-01
+372,Teclado,Acessórios,1237.01,2024-09-17
+373,Smartwatch,Wearables,50.61,2025-01-03
+374,Fone Bluetooth,Wearables,2301.4,2024-03-26
+375,Headset,Acessórios,4727.18,2024-02-16
+376,Notebook,Eletrônicos,4898.02,2024-07-11
+377,Smartphone,Eletrônicos,2180.83,2024-12-31
+378,Notebook,Eletrônicos,3965.84,2024-12-23
+379,Mouse,Acessórios,3623.25,2024-12-29
+380,Fone Bluetooth,Wearables,4895.14,2024-05-04
+381,Mouse,Acessórios,317.47,2024-04-18
+382,Smartphone,Eletrônicos,73.05,2024-11-14
+383,Smartwatch,Wearables,2920.16,2024-03-14
+384,Fone Bluetooth,Wearables,2044.55,2024-02-04
+385,Smartphone,Eletrônicos,3406.55,2024-02-27
+386,Notebook,Eletrônicos,3622.03,2024-12-14
+387,Mouse,Acessórios,4180.56,2024-03-08
+388,TV,Eletrônicos,2806.66,2024-06-20
+389,Fone Bluetooth,Wearables,3508.13,2024-09-06
+390,Headset,Acessórios,2541.21,2024-09-11
+391,Smartphone,Eletrônicos,460.55,2024-12-15
+392,Teclado,Acessórios,815.33,2025-01-15
+393,Fone Bluetooth,Wearables,1223.31,2024-02-19
+394,TV,Eletrônicos,4129.68,2024-08-07
+395,Fone Bluetooth,Wearables,1368.01,2024-08-24
+396,Smartwatch,Wearables,2775.61,2025-01-11
+397,Notebook,Eletrônicos,867.77,2024-09-20
+398,Smartphone,Eletrônicos,4566.62,2024-12-21
+399,Teclado,Acessórios,1563.58,2024-07-17
+400,Fone Bluetooth,Wearables,1043.45,2024-09-25
+401,TV,Eletrônicos,2559.35,2024-09-29
+402,TV,Eletrônicos,1842.54,2024-02-25
+403,Smartwatch,Wearables,658.94,2024-06-06
+404,Notebook,Eletrônicos,4684.29,2025-01-02
+405,Mouse,Acessórios,1910.21,2024-08-13
+406,Teclado,Acessórios,4812.85,2024-06-04
+407,Smartphone,Eletrônicos,4369.27,2024-02-17
+408,Mouse,Acessórios,190.18,2024-03-18
+409,Mouse,Acessórios,1035.56,2024-03-19
+410,Smartphone,Eletrônicos,3246.14,2024-02-07
+411,Headset,Acessórios,2548.23,2024-06-30
+412,TV,Eletrônicos,3068.6,2024-07-01
+413,Smartwatch,Wearables,1356.39,2024-02-11
+414,Fone Bluetooth,Wearables,2279.73,2024-07-11
+415,Headset,Acessórios,985.17,2024-02-09
+416,Notebook,Eletrônicos,877.81,2025-01-09
+417,Smartphone,Eletrônicos,1369.92,2024-11-02
+418,Smartwatch,Wearables,3259.87,2024-07-22
+419,TV,Eletrônicos,449.11,2024-04-09
+420,Mouse,Acessórios,123.97,2024-12-31
+421,Headset,Acessórios,4892.65,2024-11-29
+422,Teclado,Acessórios,3870.24,2024-07-12
+423,Headset,Acessórios,4347.0,2024-10-31
+424,Smartwatch,Wearables,3436.86,2024-11-09
+425,Mouse,Acessórios,1991.25,2024-03-17
+426,Smartphone,Eletrônicos,2590.79,2024-04-08
+427,Mouse,Acessórios,1236.91,2024-09-22
+428,Smartwatch,Wearables,811.08,2024-05-06
+429,Smartphone,Eletrônicos,3745.61,2024-08-30
+430,Teclado,Acessórios,3788.22,2024-07-24
+431,Teclado,Acessórios,2463.23,2024-12-14
+432,Fone Bluetooth,Wearables,2920.52,2024-11-10
+433,Notebook,Eletrônicos,1088.12,2024-09-24
+434,TV,Eletrônicos,4482.1,2024-08-29
+435,Mouse,Acessórios,3766.14,2024-07-30
+436,Notebook,Eletrônicos,3835.64,2024-05-31
+437,Fone Bluetooth,Wearables,3099.1,2024-09-19
+438,Smartwatch,Wearables,2180.2,2024-02-11
+439,Smartwatch,Wearables,3529.33,2024-12-01
+440,Smartwatch,Wearables,2573.07,2024-10-19
+441,Fone Bluetooth,Wearables,4016.05,2024-03-01
+442,Headset,Acessórios,1813.85,2024-10-16
+443,Smartwatch,Wearables,3891.46,2025-01-29
+444,Smartphone,Eletrônicos,120.72,2024-06-01
+445,Smartwatch,Wearables,1406.69,2024-11-23
+446,Teclado,Acessórios,3067.12,2024-07-26
+447,Smartwatch,Wearables,4007.19,2025-01-14
+448,TV,Eletrônicos,4633.07,2024-12-11
+449,Smartphone,Eletrônicos,4359.05,2024-11-30
+450,Teclado,Acessórios,4143.62,2024-05-30
+451,Notebook,Eletrônicos,627.46,2024-04-22
+452,Mouse,Acessórios,4556.22,2024-09-25
+453,Notebook,Eletrônicos,491.21,2024-12-31
+454,Teclado,Acessórios,4092.95,2024-06-21
+455,Fone Bluetooth,Wearables,517.13,2024-04-12
+456,TV,Eletrônicos,2350.64,2024-04-24
+457,Notebook,Eletrônicos,2146.51,2024-06-23
+458,Smartphone,Eletrônicos,3379.82,2024-03-10
+459,Fone Bluetooth,Wearables,2465.09,2024-07-07
+460,Smartwatch,Wearables,2507.7,2024-12-29
+461,Fone Bluetooth,Wearables,2905.73,2024-06-11
+462,TV,Eletrônicos,4458.81,2024-11-19
+463,Notebook,Eletrônicos,635.71,2024-05-19
+464,Fone Bluetooth,Wearables,2905.75,2024-06-24
+465,Smartphone,Eletrônicos,1665.63,2024-05-01
+466,Headset,Acessórios,1248.25,2024-12-25
+467,Notebook,Eletrônicos,523.27,2024-05-05
+468,Headset,Acessórios,2569.86,2024-05-25
+469,Headset,Acessórios,4557.71,2024-03-27
+470,Smartwatch,Wearables,3900.84,2024-05-12
+471,Smartwatch,Wearables,449.51,2024-03-16
+472,Fone Bluetooth,Wearables,652.65,2024-09-21
+473,Notebook,Eletrônicos,2979.01,2024-03-20
+474,Notebook,Eletrônicos,4879.21,2024-04-09
+475,Smartphone,Eletrônicos,392.29,2024-02-04
+476,Smartphone,Eletrônicos,4683.21,2024-02-06
+477,Smartphone,Eletrônicos,3434.89,2024-07-22
+478,TV,Eletrônicos,3084.99,2025-01-09
+479,Headset,Acessórios,2082.47,2024-09-11
+480,Smartwatch,Wearables,1767.22,2024-03-11
+481,Fone Bluetooth,Wearables,1626.35,2024-12-13
+482,Fone Bluetooth,Wearables,2488.18,2024-10-16
+483,Mouse,Acessórios,1066.88,2024-04-16
+484,TV,Eletrônicos,887.62,2024-07-10
+485,Smartphone,Eletrônicos,454.67,2024-09-10
+486,Teclado,Acessórios,3799.67,2024-12-21
+487,Smartwatch,Wearables,693.79,2024-04-14
+488,Smartphone,Eletrônicos,3659.25,2024-07-24
+489,Fone Bluetooth,Wearables,3946.15,2024-08-05
+490,Smartwatch,Wearables,329.32,2025-01-15
+491,TV,Eletrônicos,4697.13,2024-10-09
+492,TV,Eletrônicos,156.08,2024-10-18
+493,Smartphone,Eletrônicos,4933.0,2024-02-17
+494,Smartphone,Eletrônicos,1053.15,2024-09-29
+495,Fone Bluetooth,Wearables,4102.37,2024-09-01
+496,Notebook,Eletrônicos,2942.81,2024-08-02
+497,TV,Eletrônicos,2156.8,2024-07-09
+498,Mouse,Acessórios,2411.36,2025-01-15
+499,TV,Eletrônicos,3483.09,2024-06-24
+500,Smartwatch,Wearables,4537.35,2024-09-04
+501,Notebook,Eletrônicos,4114.17,2024-03-20
+502,Smartphone,Eletrônicos,3756.51,2024-06-21
+503,Teclado,Acessórios,1344.61,2024-11-05
+504,Teclado,Acessórios,1292.16,2024-04-21
+505,Headset,Acessórios,3394.32,2024-09-03
+506,Teclado,Acessórios,2832.13,2024-03-13
+507,Fone Bluetooth,Wearables,94.12,2024-12-12
+508,Smartphone,Eletrônicos,3002.03,2024-03-11
+509,Smartwatch,Wearables,2322.05,2024-12-20
+510,Teclado,Acessórios,2001.68,2024-02-16
+511,TV,Eletrônicos,2758.68,2024-12-08
+512,Notebook,Eletrônicos,3885.21,2024-06-13
+513,TV,Eletrônicos,1762.81,2024-12-25
+514,Teclado,Acessórios,1285.75,2024-08-07
+515,Smartwatch,Wearables,1179.09,2025-01-10
+516,Headset,Acessórios,1295.16,2024-08-07
+517,Fone Bluetooth,Wearables,3526.37,2024-10-05
+518,Smartphone,Eletrônicos,4723.8,2024-10-17
+519,Fone Bluetooth,Wearables,4066.46,2025-01-15
+520,Headset,Acessórios,2103.81,2024-07-31
+521,Mouse,Acessórios,986.33,2024-10-15
+522,Notebook,Eletrônicos,598.95,2024-06-23
+523,Teclado,Acessórios,2152.38,2024-08-07
+524,Mouse,Acessórios,1795.22,2024-03-06
+525,TV,Eletrônicos,431.47,2024-11-13
+526,Mouse,Acessórios,2496.29,2024-04-17
+527,Smartwatch,Wearables,962.55,2025-01-25
+528,Notebook,Eletrônicos,2425.16,2024-02-24
+529,TV,Eletrônicos,2243.39,2024-08-11
+530,Mouse,Acessórios,4197.35,2024-05-27
+531,Smartwatch,Wearables,4958.06,2024-09-13
+532,Teclado,Acessórios,4138.85,2024-07-28
+533,Fone Bluetooth,Wearables,1430.9,2024-04-20
+534,TV,Eletrônicos,1513.82,2024-04-28
+535,TV,Eletrônicos,2250.92,2024-07-23
+536,Fone Bluetooth,Wearables,1201.03,2024-10-11
+537,Teclado,Acessórios,3550.24,2024-03-04
+538,Smartwatch,Wearables,2765.25,2024-02-16
+539,Teclado,Acessórios,1217.7,2024-12-03
+540,Teclado,Acessórios,4805.95,2025-01-24
+541,Headset,Acessórios,244.82,2024-11-14
+542,Notebook,Eletrônicos,1687.94,2024-08-24
+543,Fone Bluetooth,Wearables,4620.28,2025-01-22
+544,Smartwatch,Wearables,4459.24,2024-08-30
+545,TV,Eletrônicos,3035.71,2024-08-03
+546,Headset,Acessórios,3739.62,2024-07-03
+547,Mouse,Acessórios,3874.45,2024-02-08
+548,Fone Bluetooth,Wearables,2670.08,2024-11-30
+549,TV,Eletrônicos,3385.17,2024-12-24
+550,Smartphone,Eletrônicos,4688.8,2024-09-15
+551,Fone Bluetooth,Wearables,2017.33,2024-07-20
+552,Mouse,Acessórios,2873.65,2024-12-11
+553,Smartphone,Eletrônicos,1504.57,2024-04-12
+554,Notebook,Eletrônicos,3287.14,2025-01-27
+555,Notebook,Eletrônicos,2324.64,2024-06-03
+556,TV,Eletrônicos,1214.55,2024-04-18
+557,Smartphone,Eletrônicos,2854.43,2024-05-28
+558,Fone Bluetooth,Wearables,217.58,2024-08-21
+559,Headset,Acessórios,1661.36,2024-12-21
+560,Fone Bluetooth,Wearables,4581.25,2024-09-27
+561,Fone Bluetooth,Wearables,3369.71,2025-01-18
+562,TV,Eletrônicos,3330.69,2024-06-17
+563,Mouse,Acessórios,2090.89,2024-03-09
+564,Mouse,Acessórios,2843.63,2024-04-22
+565,Notebook,Eletrônicos,2441.85,2024-02-11
+566,Notebook,Eletrônicos,1387.16,2024-03-06
+567,Fone Bluetooth,Wearables,4823.53,2024-12-17
+568,Smartphone,Eletrônicos,2325.96,2024-06-01
+569,Fone Bluetooth,Wearables,3419.36,2024-09-07
+570,Fone Bluetooth,Wearables,3194.15,2024-08-09
+571,Notebook,Eletrônicos,1780.92,2024-05-18
+572,Teclado,Acessórios,2142.68,2024-02-21
+573,Smartwatch,Wearables,3402.78,2024-05-10
+574,TV,Eletrônicos,1286.67,2024-10-12
+575,TV,Eletrônicos,4362.61,2024-05-30
+576,TV,Eletrônicos,703.11,2024-04-17
+577,Teclado,Acessórios,3679.92,2024-03-09
+578,Smartphone,Eletrônicos,2037.02,2024-11-06
+579,Fone Bluetooth,Wearables,2063.53,2024-10-22
+580,Fone Bluetooth,Wearables,1326.52,2025-01-18
+581,Notebook,Eletrônicos,2190.77,2025-01-17
+582,TV,Eletrônicos,118.51,2024-02-24
+583,Mouse,Acessórios,2914.31,2024-10-07
+584,Smartwatch,Wearables,2700.94,2024-08-01
+585,Fone Bluetooth,Wearables,3676.97,2024-06-06
+586,Headset,Acessórios,3694.92,2024-02-07
+587,Smartwatch,Wearables,299.51,2024-04-22
+588,Fone Bluetooth,Wearables,2005.93,2024-11-10
+589,Mouse,Acessórios,719.98,2024-12-10
+590,Teclado,Acessórios,207.71,2024-11-08
+591,Fone Bluetooth,Wearables,2161.44,2024-07-21
+592,TV,Eletrônicos,715.23,2024-03-21
+593,Notebook,Eletrônicos,3161.18,2024-03-15
+594,Fone Bluetooth,Wearables,2380.64,2025-01-31
+595,Mouse,Acessórios,3846.28,2024-06-29
+596,Notebook,Eletrônicos,2664.44,2024-08-21
+597,Teclado,Acessórios,1645.43,2024-06-30
+598,Mouse,Acessórios,2422.3,2024-11-28
+599,Notebook,Eletrônicos,2936.62,2024-05-28
+600,Teclado,Acessórios,4369.32,2024-02-20
+601,Smartwatch,Wearables,567.94,2024-12-27
+602,Smartwatch,Wearables,4561.5,2024-10-03
+603,Teclado,Acessórios,66.8,2024-10-04
+604,Headset,Acessórios,3370.19,2024-05-09
+605,TV,Eletrônicos,3818.53,2024-04-03
+606,Smartwatch,Wearables,4949.07,2024-05-22
+607,TV,Eletrônicos,1228.84,2024-05-11
+608,Headset,Acessórios,2156.21,2025-01-10
+609,Headset,Acessórios,2394.73,2024-07-07
+610,Notebook,Eletrônicos,1900.89,2024-05-14
+611,Fone Bluetooth,Wearables,811.43,2024-03-20
+612,Teclado,Acessórios,4566.82,2024-03-05
+613,Smartwatch,Wearables,3113.77,2024-07-19
+614,Smartwatch,Wearables,3009.66,2024-07-24
+615,Headset,Acessórios,1864.61,2025-01-09
+616,Smartphone,Eletrônicos,3794.9,2024-11-10
+617,Smartwatch,Wearables,2575.41,2025-01-17
+618,Smartwatch,Wearables,2648.26,2024-04-20
+619,TV,Eletrônicos,1007.37,2024-03-04
+620,Headset,Acessórios,1019.31,2024-12-29
+621,Headset,Acessórios,775.35,2024-10-10
+622,TV,Eletrônicos,3888.84,2024-05-12
+623,Fone Bluetooth,Wearables,1489.07,2024-04-24
+624,Headset,Acessórios,2774.15,2024-09-26
+625,Teclado,Acessórios,2903.66,2024-12-24
+626,Mouse,Acessórios,2671.64,2024-02-24
+627,Smartwatch,Wearables,758.98,2024-03-01
+628,Mouse,Acessórios,3441.15,2024-10-28
+629,TV,Eletrônicos,1538.55,2025-01-23
+630,Headset,Acessórios,1803.92,2024-05-06
+631,Smartphone,Eletrônicos,926.72,2024-03-19
+632,Smartphone,Eletrônicos,2331.82,2024-02-16
+633,Teclado,Acessórios,1475.36,2024-02-06
+634,Teclado,Acessórios,4067.87,2024-10-06
+635,TV,Eletrônicos,1075.86,2024-11-02
+636,Teclado,Acessórios,2349.63,2024-09-03
+637,Mouse,Acessórios,3578.79,2025-01-08
+638,Fone Bluetooth,Wearables,2969.54,2024-04-16
+639,Smartphone,Eletrônicos,2618.14,2024-05-04
+640,TV,Eletrônicos,4944.49,2024-12-20
+641,Notebook,Eletrônicos,3414.75,2024-05-21
+642,Teclado,Acessórios,4593.45,2024-09-15
+643,Teclado,Acessórios,2774.14,2024-02-14
+644,Smartwatch,Wearables,1994.85,2024-12-11
+645,TV,Eletrônicos,3052.03,2024-11-05
+646,Fone Bluetooth,Wearables,1297.48,2024-10-30
+647,Smartwatch,Wearables,3304.44,2024-10-19
+648,Smartphone,Eletrônicos,3297.57,2024-11-17
+649,Notebook,Eletrônicos,303.7,2024-12-05
+650,Smartwatch,Wearables,2006.49,2024-04-03
+651,Mouse,Acessórios,4734.88,2024-05-13
+652,Teclado,Acessórios,2010.04,2024-11-10
+653,Notebook,Eletrônicos,2658.95,2024-07-14
+654,Smartwatch,Wearables,2707.06,2024-12-08
+655,Teclado,Acessórios,358.17,2024-04-12
+656,Mouse,Acessórios,1978.43,2024-09-09
+657,TV,Eletrônicos,828.58,2024-08-23
+658,Fone Bluetooth,Wearables,3421.47,2024-04-25
+659,Mouse,Acessórios,4048.02,2024-06-06
+660,Notebook,Eletrônicos,2170.22,2024-03-16
+661,Teclado,Acessórios,1638.97,2024-12-29
+662,Fone Bluetooth,Wearables,2513.37,2024-04-11
+663,Headset,Acessórios,1252.95,2024-07-17
+664,Teclado,Acessórios,474.18,2024-04-03
+665,Notebook,Eletrônicos,2175.02,2025-01-31
+666,Teclado,Acessórios,4352.4,2024-08-21
+667,Smartphone,Eletrônicos,3627.66,2024-08-18
+668,Teclado,Acessórios,155.44,2024-09-26
+669,TV,Eletrônicos,1744.47,2024-09-15
+670,Mouse,Acessórios,1018.48,2024-12-02
+671,Notebook,Eletrônicos,1944.84,2024-12-17
+672,Smartwatch,Wearables,4124.21,2024-08-13
+673,TV,Eletrônicos,2546.03,2024-10-15
+674,Fone Bluetooth,Wearables,3742.8,2024-04-20
+675,Headset,Acessórios,75.59,2024-08-19
+676,Smartwatch,Wearables,4682.62,2024-10-27
+677,Headset,Acessórios,1840.39,2024-04-29
+678,TV,Eletrônicos,693.86,2024-12-08
+679,Teclado,Acessórios,540.08,2024-10-06
+680,Smartphone,Eletrônicos,2877.62,2025-01-28
+681,Notebook,Eletrônicos,2024.74,2024-11-30
+682,TV,Eletrônicos,2933.94,2024-07-05
+683,Teclado,Acessórios,4710.61,2024-02-06
+684,Fone Bluetooth,Wearables,1982.79,2025-01-22
+685,Notebook,Eletrônicos,62.42,2024-10-30
+686,Headset,Acessórios,646.53,2024-08-11
+687,TV,Eletrônicos,3416.32,2024-11-26
+688,Fone Bluetooth,Wearables,2328.24,2024-11-30
+689,Smartwatch,Wearables,345.48,2024-04-23
+690,Headset,Acessórios,3131.79,2024-08-16
+691,Teclado,Acessórios,349.13,2024-12-26
+692,Mouse,Acessórios,678.94,2024-06-19
+693,Smartwatch,Wearables,3731.5,2024-05-15
+694,Fone Bluetooth,Wearables,2781.37,2024-12-31
+695,Headset,Acessórios,3381.13,2024-08-03
+696,Smartwatch,Wearables,3634.5,2024-08-26
+697,Notebook,Eletrônicos,3935.12,2024-02-11
+698,Smartwatch,Wearables,2148.85,2024-08-06
+699,Fone Bluetooth,Wearables,4604.09,2024-04-13
+700,Smartwatch,Wearables,4497.78,2024-12-10
+701,Headset,Acessórios,3145.45,2024-10-29
+702,Smartphone,Eletrônicos,2030.35,2024-08-13
+703,Mouse,Acessórios,3557.81,2024-05-06
+704,Fone Bluetooth,Wearables,3048.36,2024-08-04
+705,Mouse,Acessórios,3438.53,2024-05-26
+706,Fone Bluetooth,Wearables,4118.24,2024-04-08
+707,Smartphone,Eletrônicos,930.48,2024-07-29
+708,Fone Bluetooth,Wearables,3721.94,2024-07-15
+709,Notebook,Eletrônicos,4461.31,2024-03-25
+710,Fone Bluetooth,Wearables,1025.43,2024-07-17
+711,Fone Bluetooth,Wearables,314.52,2024-06-11
+712,TV,Eletrônicos,4713.93,2024-10-19
+713,Smartphone,Eletrônicos,2012.38,2024-07-18
+714,Teclado,Acessórios,4347.23,2024-08-10
+715,TV,Eletrônicos,809.85,2024-11-14
+716,Mouse,Acessórios,4174.12,2024-10-28
+717,Smartwatch,Wearables,4442.41,2024-12-29
+718,Fone Bluetooth,Wearables,4310.04,2024-02-20
+719,Smartwatch,Wearables,3249.77,2024-11-13
+720,Mouse,Acessórios,2783.73,2025-01-05
+721,Teclado,Acessórios,578.19,2024-12-07
+722,Headset,Acessórios,3726.07,2024-02-20
+723,Fone Bluetooth,Wearables,4399.2,2024-04-26
+724,Notebook,Eletrônicos,1584.38,2024-02-14
+725,Smartphone,Eletrônicos,1318.62,2024-04-25
+726,Smartwatch,Wearables,1766.68,2024-02-10
+727,Smartwatch,Wearables,2270.58,2024-04-01
+728,Teclado,Acessórios,2643.85,2024-07-26
+729,Smartwatch,Wearables,2905.39,2024-07-29
+730,TV,Eletrônicos,209.39,2025-01-20
+731,Smartphone,Eletrônicos,4883.17,2024-07-24
+732,Fone Bluetooth,Wearables,3722.02,2024-08-30
+733,TV,Eletrônicos,2926.08,2024-12-12
+734,Smartwatch,Wearables,4621.61,2024-02-12
+735,Fone Bluetooth,Wearables,4038.19,2024-10-06
+736,Teclado,Acessórios,1177.19,2024-11-05
+737,Fone Bluetooth,Wearables,655.31,2024-06-30
+738,TV,Eletrônicos,707.2,2024-07-05
+739,Headset,Acessórios,1464.98,2024-06-14
+740,Fone Bluetooth,Wearables,3527.27,2024-09-05
+741,Smartwatch,Wearables,410.1,2024-06-17
+742,Mouse,Acessórios,1515.35,2024-10-14
+743,Notebook,Eletrônicos,1758.59,2024-06-15
+744,TV,Eletrônicos,3458.89,2024-05-25
+745,Teclado,Acessórios,2753.44,2024-06-01
+746,TV,Eletrônicos,3239.2,2024-12-29
+747,Fone Bluetooth,Wearables,1582.54,2024-11-25
+748,Headset,Acessórios,3267.15,2024-08-06
+749,Headset,Acessórios,4332.49,2024-02-04
+750,Smartwatch,Wearables,4435.21,2024-12-18
+751,Mouse,Acessórios,339.0,2024-06-11
+752,Notebook,Eletrônicos,1733.92,2024-12-19
+753,Fone Bluetooth,Wearables,2531.09,2024-09-19
+754,Headset,Acessórios,3431.52,2024-11-23
+755,Teclado,Acessórios,1437.53,2024-08-11
+756,Fone Bluetooth,Wearables,4828.18,2024-03-23
+757,Notebook,Eletrônicos,2526.01,2024-02-06
+758,Headset,Acessórios,2830.87,2024-08-12
+759,Smartwatch,Wearables,486.62,2024-09-10
+760,Mouse,Acessórios,3198.07,2024-02-10
+761,Mouse,Acessórios,4010.86,2024-04-06
+762,Notebook,Eletrônicos,3176.23,2024-03-21
+763,Headset,Acessórios,4031.59,2024-08-18
+764,Fone Bluetooth,Wearables,2023.33,2024-10-06
+765,TV,Eletrônicos,4348.25,2024-08-21
+766,TV,Eletrônicos,4088.97,2024-10-31
+767,Smartwatch,Wearables,2509.13,2025-02-03
+768,Teclado,Acessórios,4507.25,2024-11-07
+769,Smartphone,Eletrônicos,264.73,2024-08-14
+770,Notebook,Eletrônicos,1386.38,2024-06-23
+771,TV,Eletrônicos,95.26,2024-02-15
+772,Mouse,Acessórios,4726.33,2024-05-24
+773,Smartphone,Eletrônicos,1781.33,2024-06-07
+774,Smartphone,Eletrônicos,4672.98,2024-02-09
+775,Smartwatch,Wearables,858.66,2024-11-25
+776,Headset,Acessórios,3999.81,2024-04-04
+777,Mouse,Acessórios,2126.21,2024-02-22
+778,Fone Bluetooth,Wearables,3321.98,2024-06-23
+779,Smartwatch,Wearables,2831.35,2024-11-26
+780,Smartwatch,Wearables,3925.94,2024-09-03
+781,Mouse,Acessórios,3092.04,2024-03-12
+782,Smartphone,Eletrônicos,3744.63,2025-01-08
+783,Notebook,Eletrônicos,454.78,2025-01-05
+784,Smartphone,Eletrônicos,3934.74,2024-11-11
+785,Mouse,Acessórios,704.89,2024-10-08
+786,Mouse,Acessórios,450.67,2024-05-17
+787,Headset,Acessórios,2754.21,2024-09-21
+788,Teclado,Acessórios,4632.91,2024-09-20
+789,Fone Bluetooth,Wearables,3916.4,2024-11-05
+790,Teclado,Acessórios,431.69,2024-10-04
+791,Headset,Acessórios,552.77,2024-09-28
+792,Smartphone,Eletrônicos,1707.22,2025-01-15
+793,Fone Bluetooth,Wearables,985.88,2024-11-03
+794,Headset,Acessórios,1294.24,2024-06-12
+795,Fone Bluetooth,Wearables,1361.78,2024-10-13
+796,Headset,Acessórios,94.14,2024-05-06
+797,Notebook,Eletrônicos,4406.11,2025-01-25
+798,Smartphone,Eletrônicos,4192.26,2024-02-29
+799,Smartwatch,Wearables,3464.04,2025-01-22
+800,Notebook,Eletrônicos,2775.52,2024-07-24
+801,Smartwatch,Wearables,1631.45,2024-03-29
+802,Mouse,Acessórios,2906.32,2024-12-16
+803,Mouse,Acessórios,561.97,2024-03-21
+804,Notebook,Eletrônicos,4700.24,2024-11-19
+805,Fone Bluetooth,Wearables,4905.93,2024-10-05
+806,Smartphone,Eletrônicos,4932.36,2024-05-29
+807,Notebook,Eletrônicos,2271.82,2024-09-13
+808,Smartwatch,Wearables,2625.44,2024-02-27
+809,Notebook,Eletrônicos,3928.46,2024-08-02
+810,Fone Bluetooth,Wearables,3947.55,2024-06-10
+811,TV,Eletrônicos,200.58,2024-08-19
+812,Fone Bluetooth,Wearables,1524.17,2024-11-17
+813,Smartwatch,Wearables,2394.89,2024-06-23
+814,Smartphone,Eletrônicos,3834.37,2024-03-23
+815,Mouse,Acessórios,1772.34,2025-01-28
+816,Mouse,Acessórios,3616.27,2024-03-11
+817,Notebook,Eletrônicos,1280.27,2024-07-19
+818,Smartwatch,Wearables,1569.21,2024-06-06
+819,Smartwatch,Wearables,104.27,2024-05-17
+820,Notebook,Eletrônicos,4972.5,2025-01-06
+821,Smartwatch,Wearables,699.02,2024-09-16
+822,Fone Bluetooth,Wearables,2336.23,2024-07-04
+823,Notebook,Eletrônicos,2618.52,2024-12-05
+824,Mouse,Acessórios,491.41,2024-03-19
+825,TV,Eletrônicos,2969.16,2024-05-14
+826,Fone Bluetooth,Wearables,4838.01,2024-08-17
+827,Notebook,Eletrônicos,2620.9,2024-05-12
+828,Smartwatch,Wearables,1224.51,2024-09-02
+829,Notebook,Eletrônicos,2516.34,2024-10-14
+830,Smartwatch,Wearables,1179.42,2024-03-23
+831,Teclado,Acessórios,3658.1,2024-04-06
+832,Smartwatch,Wearables,704.76,2024-03-10
+833,Notebook,Eletrônicos,2397.84,2024-05-20
+834,Headset,Acessórios,607.04,2024-04-28
+835,Headset,Acessórios,2686.68,2024-05-26
+836,Teclado,Acessórios,1563.13,2024-10-20
+837,Smartphone,Eletrônicos,986.53,2024-07-13
+838,Fone Bluetooth,Wearables,4313.39,2024-03-14
+839,Mouse,Acessórios,2463.68,2024-12-09
+840,Notebook,Eletrônicos,438.85,2024-07-16
+841,Smartphone,Eletrônicos,2942.03,2025-01-26
+842,TV,Eletrônicos,3184.91,2024-02-21
+843,Teclado,Acessórios,1334.88,2024-09-17
+844,Headset,Acessórios,4298.3,2024-12-21
+845,Teclado,Acessórios,1943.57,2025-01-16
+846,Fone Bluetooth,Wearables,4654.46,2024-12-31
+847,Smartphone,Eletrônicos,4597.84,2025-01-22
+848,Headset,Acessórios,3898.83,2024-03-26
+849,Fone Bluetooth,Wearables,1982.58,2024-06-12
+850,Smartphone,Eletrônicos,4959.61,2024-11-21
+851,Teclado,Acessórios,2081.98,2024-02-24
+852,Mouse,Acessórios,3403.51,2024-11-25
+853,Mouse,Acessórios,1357.26,2024-04-11
+854,Headset,Acessórios,2410.66,2024-08-07
+855,Fone Bluetooth,Wearables,3448.31,2024-05-11
+856,Fone Bluetooth,Wearables,186.83,2024-11-06
+857,Smartwatch,Wearables,4820.43,2024-08-28
+858,TV,Eletrônicos,1331.04,2024-09-18
+859,Mouse,Acessórios,1332.04,2024-12-20
+860,Mouse,Acessórios,2142.29,2024-09-25
+861,Smartphone,Eletrônicos,3917.13,2024-06-11
+862,Smartphone,Eletrônicos,3845.35,2024-06-25
+863,Smartwatch,Wearables,2126.26,2024-12-26
+864,Fone Bluetooth,Wearables,2187.72,2024-12-22
+865,TV,Eletrônicos,1530.37,2024-04-20
+866,Teclado,Acessórios,4627.15,2025-01-09
+867,Fone Bluetooth,Wearables,3991.58,2024-07-08
+868,Notebook,Eletrônicos,1113.85,2024-07-09
+869,Teclado,Acessórios,3981.28,2024-04-16
+870,Teclado,Acessórios,874.3,2024-07-10
+871,Smartphone,Eletrônicos,1683.8,2024-04-25
+872,Teclado,Acessórios,2435.68,2024-12-19
+873,Mouse,Acessórios,3595.2,2024-12-30
+874,Fone Bluetooth,Wearables,422.87,2024-08-21
+875,Notebook,Eletrônicos,3768.78,2025-01-16
+876,TV,Eletrônicos,1025.66,2024-05-02
+877,Notebook,Eletrônicos,843.93,2024-09-12
+878,Fone Bluetooth,Wearables,3089.16,2024-12-11
+879,TV,Eletrônicos,414.38,2024-10-26
+880,Smartwatch,Wearables,3933.41,2024-12-13
+881,Smartwatch,Wearables,3993.87,2024-07-29
+882,Teclado,Acessórios,1629.47,2024-06-19
+883,Teclado,Acessórios,3104.2,2024-05-24
+884,Headset,Acessórios,1761.68,2024-12-03
+885,Smartphone,Eletrônicos,141.37,2024-07-18
+886,Notebook,Eletrônicos,3365.48,2024-11-28
+887,Notebook,Eletrônicos,1326.04,2024-10-19
+888,Mouse,Acessórios,4561.41,2024-04-14
+889,Mouse,Acessórios,2424.95,2024-04-28
+890,Smartphone,Eletrônicos,757.77,2024-07-22
+891,Smartphone,Eletrônicos,2891.9,2024-03-14
+892,Fone Bluetooth,Wearables,204.71,2024-06-21
+893,Smartwatch,Wearables,3384.12,2024-11-25
+894,Fone Bluetooth,Wearables,3469.94,2024-10-30
+895,Teclado,Acessórios,4634.28,2025-01-29
+896,Smartwatch,Wearables,3144.28,2024-12-29
+897,TV,Eletrônicos,884.34,2024-09-11
+898,Teclado,Acessórios,3372.48,2024-04-19
+899,Smartwatch,Wearables,2547.24,2024-03-19
+900,Fone Bluetooth,Wearables,2135.61,2024-10-23
+901,Headset,Acessórios,3662.43,2024-07-09
+902,Fone Bluetooth,Wearables,1642.55,2024-02-04
+903,Fone Bluetooth,Wearables,2989.37,2024-08-25
+904,Smartphone,Eletrônicos,4091.52,2024-10-12
+905,TV,Eletrônicos,4095.05,2024-10-13
+906,Smartphone,Eletrônicos,4467.51,2024-07-17
+907,Fone Bluetooth,Wearables,456.59,2024-08-18
+908,Notebook,Eletrônicos,1004.94,2024-09-06
+909,Mouse,Acessórios,4480.52,2024-02-05
+910,Mouse,Acessórios,1911.42,2024-12-12
+911,Headset,Acessórios,2381.3,2025-01-16
+912,Smartwatch,Wearables,3167.71,2024-11-13
+913,Headset,Acessórios,4920.19,2024-04-28
+914,Headset,Acessórios,437.13,2024-04-22
+915,Smartphone,Eletrônicos,3853.77,2025-01-25
+916,Notebook,Eletrônicos,3667.76,2024-12-12
+917,Mouse,Acessórios,3090.68,2024-09-17
+918,Fone Bluetooth,Wearables,3437.95,2024-10-10
+919,Smartphone,Eletrônicos,3680.85,2024-12-30
+920,Smartwatch,Wearables,2894.24,2024-12-24
+921,Fone Bluetooth,Wearables,2145.62,2024-09-08
+922,Smartphone,Eletrônicos,2606.51,2024-02-18
+923,Smartwatch,Wearables,910.79,2024-09-07
+924,Teclado,Acessórios,3328.77,2024-03-02
+925,Smartwatch,Wearables,4938.81,2024-02-11
+926,Headset,Acessórios,2118.44,2024-02-12
+927,Notebook,Eletrônicos,2033.37,2024-09-28
+928,Headset,Acessórios,4621.15,2024-10-02
+929,Smartphone,Eletrônicos,2631.1,2024-08-21
+930,Smartwatch,Wearables,1810.51,2024-09-03
+931,Mouse,Acessórios,3367.0,2024-08-06
+932,TV,Eletrônicos,3312.75,2024-04-07
+933,Smartphone,Eletrônicos,4108.0,2024-08-07
+934,Smartwatch,Wearables,3851.45,2025-01-27
+935,Smartphone,Eletrônicos,2186.07,2024-04-27
+936,Smartphone,Eletrônicos,3221.64,2024-04-26
+937,Fone Bluetooth,Wearables,1607.58,2024-09-16
+938,Mouse,Acessórios,1314.68,2024-03-23
+939,Headset,Acessórios,3594.15,2024-12-10
+940,Notebook,Eletrônicos,2307.44,2024-12-30
+941,Teclado,Acessórios,1831.27,2024-04-22
+942,TV,Eletrônicos,4724.96,2024-09-04
+943,Notebook,Eletrônicos,2223.31,2024-08-11
+944,Fone Bluetooth,Wearables,585.16,2024-04-01
+945,Smartphone,Eletrônicos,4373.21,2024-10-05
+946,Notebook,Eletrônicos,1683.22,2024-11-23
+947,Headset,Acessórios,1451.05,2024-11-29
+948,TV,Eletrônicos,218.67,2024-05-09
+949,Teclado,Acessórios,4697.95,2024-06-04
+950,Smartwatch,Wearables,2078.8,2024-05-06
+951,Teclado,Acessórios,3269.78,2024-04-21
+952,TV,Eletrônicos,3482.32,2025-01-11
+953,Mouse,Acessórios,4939.69,2024-03-13
+954,Smartphone,Eletrônicos,3137.68,2024-07-27
+955,Smartphone,Eletrônicos,3482.04,2024-08-01
+956,Teclado,Acessórios,2155.0,2024-10-02
+957,Fone Bluetooth,Wearables,2305.14,2025-01-12
+958,TV,Eletrônicos,1534.8,2024-08-28
+959,Headset,Acessórios,2666.35,2024-05-17
+960,Smartwatch,Wearables,1941.33,2024-11-16
+961,Teclado,Acessórios,3203.61,2024-03-15
+962,Headset,Acessórios,3534.28,2024-07-28
+963,TV,Eletrônicos,3240.57,2024-06-04
+964,Notebook,Eletrônicos,1815.24,2024-08-25
+965,Notebook,Eletrônicos,1400.64,2024-07-29
+966,Fone Bluetooth,Wearables,653.04,2024-02-19
+967,Notebook,Eletrônicos,381.56,2024-06-18
+968,Fone Bluetooth,Wearables,3346.93,2024-03-25
+969,TV,Eletrônicos,1505.78,2024-07-16
+970,TV,Eletrônicos,2956.62,2024-02-24
+971,Notebook,Eletrônicos,3026.01,2025-01-16
+972,Headset,Acessórios,994.33,2024-04-30
+973,Mouse,Acessórios,243.81,2024-04-12
+974,Fone Bluetooth,Wearables,3575.19,2024-05-14
+975,Smartphone,Eletrônicos,2560.36,2024-06-03
+976,Fone Bluetooth,Wearables,2554.88,2025-01-03
+977,Headset,Acessórios,2817.07,2024-06-15
+978,Teclado,Acessórios,1164.91,2024-02-25
+979,Smartwatch,Wearables,2643.37,2024-02-21
+980,Smartphone,Eletrônicos,2167.58,2024-04-20
+981,Fone Bluetooth,Wearables,2490.81,2024-11-03
+982,Fone Bluetooth,Wearables,4362.09,2024-04-09
+983,Smartwatch,Wearables,4830.54,2024-04-15
+984,Headset,Acessórios,2475.6,2024-09-12
+985,Smartwatch,Wearables,2272.97,2024-12-30
+986,Fone Bluetooth,Wearables,1475.36,2024-06-22
+987,TV,Eletrônicos,1056.63,2024-04-08
+988,Teclado,Acessórios,1734.62,2024-07-21
+989,Mouse,Acessórios,3988.08,2025-01-10
+990,Fone Bluetooth,Wearables,2860.92,2024-06-21
+991,Mouse,Acessórios,1242.88,2024-05-18
+992,Notebook,Eletrônicos,3149.54,2024-05-16
+993,Notebook,Eletrônicos,3370.41,2024-11-14
+994,Headset,Acessórios,3109.41,2024-04-11
+995,Fone Bluetooth,Wearables,2858.84,2024-08-11
+996,Notebook,Eletrônicos,679.25,2024-02-22
+997,Fone Bluetooth,Wearables,4237.62,2024-05-13
+998,TV,Eletrônicos,2792.34,2024-09-21
+999,Teclado,Acessórios,2352.02,2024-08-24
+1000,TV,Eletrônicos,2017.9,2024-09-04
