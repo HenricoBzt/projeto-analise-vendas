@@ -31,4 +31,4 @@ Este projeto analisa as vendas de um e-commerce fictício para entender quais pr
 ## 🚀 Como Executar o Projeto  
 1️⃣ Clone o repositório:  
 ```bash
-git clone https://github.com/seu-usuario/projeto-analise-vendas.git
+git clone https://github.com/HenricoBzt/projeto-analise-vendas.git
